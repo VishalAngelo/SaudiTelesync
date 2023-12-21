@@ -1,4 +1,4 @@
-## SaudiTelesync
+# SaudiTelesync
 Dive into STC, Saudi Arabia's telecom giant! This mini use case project explores their strengths, challenges, and ambitions from digital transformation to regional expansion. 
 A business use case describes a specific task or activity within a business, outlining the steps involved and who performs them. 
 By understanding these use cases, businesses can improve efficiency, identify any issues, and ensure everyone is on the same page.
